@@ -36,3 +36,8 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     });
 });
+
+window.Alpine = Alpine;
+
+Alpine.start();
+
